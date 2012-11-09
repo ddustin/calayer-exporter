@@ -7,6 +7,7 @@
 //
 
 #import "CALayerExporter.h"
+#import <QuartzCore/QuartzCore.h>
 
 typedef struct ExportPathCommandsContext {
     NSString* pathName;
